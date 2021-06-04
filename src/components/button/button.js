@@ -1,7 +1,7 @@
-class Button {
+class DangerButton {
     click () {
-        return 'click';
+        return 'danger';
     }
 }
 
-export default Button;
+export default DangerButton;
