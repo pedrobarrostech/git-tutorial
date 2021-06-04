@@ -1,10 +1,10 @@
 class DangerButton {
     click () {
-        return 'danger';
+        return 'dange2';
     }
 
     doubleClick () {
-        return 'danger';
+        return 'danger2';
     }
 }
 
