@@ -1,6 +1,6 @@
 class Button {
     click () {
-        return 'clicked';
+        return 'click';
     }
 }
 
