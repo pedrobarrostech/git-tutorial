@@ -1,7 +1,11 @@
-class Button {
+class DangerButton {
     click () {
-        return 'clicked';
+        return 'danger';
+    }
+
+    doubleClick () {
+        return 'doubleClick';
     }
 }
 
-export default Button;
+export default DangerButton;
